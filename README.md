@@ -1,6 +1,6 @@
 # INVERTIS UNIVERSITY, BAREILLY
 ## Department of Computer Science & Engineering
-### BCS352: HTML and CSS Introduction Lab (Second Year)
+### Subject: HTML and CSS Introduction Lab (First Year)
 
 **Student Name:** Mohd Zaman Khan  
 **Roll Number:** BCS2026180  
